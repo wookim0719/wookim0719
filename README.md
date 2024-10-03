@@ -1,4 +1,4 @@
-### Hi there  👋 My name is Kim Jeong woo
+#👋 My name is Kim Jeong woo
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ujbae)](https://solved.ac/ujbae)
 <!--
 **wookim0719/wookim0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
