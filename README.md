@@ -4,14 +4,17 @@
 <!--소개-->
   
   ## Introduction :raised_hands:
-안녕하세요! 가치있는 개발자가 되고 싶습니다.
+안녕하세요. 김정우입니다.
 <br/><br/>
  
  <!--기술스택-->
   ## Skill :four_leaf_clover:
 
-  <img src="https://img.shields.io/badge/flutter-007396?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-87CEEB?style=for-the-badge&logo=flutter&logoColor=blue">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-008000?style=for-the-badge&logo=node.js&logoColor=green">
+  <img src="https://img.shields.io/badge/docker-3776AB?style=for-the-badge&logo=docker&logoColor=white">
+
 
 <br/><br/>
   
@@ -24,7 +27,7 @@
 ## Activities :running:
 네티 프론트 개발 (2023)
 <br/>
-kbuddy 개발 (2024~)
+kbuddy 개발 (2024)
 <br/>
 <br/><br/>
 
