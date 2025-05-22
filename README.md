@@ -26,7 +26,6 @@
 ## Activities :running:
 네티 프론트 개발 (2023)
 <br/>
-kbuddy 개발 (2024)
 <br/>
 <br/><br/>
 
