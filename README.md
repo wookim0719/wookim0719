@@ -22,7 +22,7 @@
   ## Studying :pencil2: 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <br/><br/>
-
+<!--
 ## Activities :running:
 네티 프론트 개발 (2023)
 <br/>
@@ -30,7 +30,7 @@
 <br/><br/>
 
  <!--알고리즘 -->
- <a href="https://github.com/ujbae/Algorithm" > 
+ <!-- <a href="https://github.com/ujbae/Algorithm" > 
  
  ## Problem Solving :muscle: 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujbae)](https://solved.ac/ujbae)
